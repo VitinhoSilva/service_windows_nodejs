@@ -1,0 +1,38 @@
+2020-03-16 10:23:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\projetos\geo_cidades_jaboatao_widget_emp_backend\node_modules\node-windows\lib\wrapper.js --file C:\projetos\geo_cidades_jaboatao_widget_emp_backend\index.js --log "Geocidade_backend_empreendimento wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-03-16 10:23:43 - Started 2824
+2020-03-16 10:25:20 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\projetos\geo_cidades_jaboatao_widget_emp_backend\node_modules\node-windows\lib\wrapper.js --file C:\projetos\geo_cidades_jaboatao_widget_emp_backend\index.js --log "Geocidade_backend_empreendimento wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-03-16 10:25:21 - Started 7920
+2020-03-16 10:29:19 - Stopping geocidade_backend_empreendimento.exe
+2020-03-16 10:29:19 - ProcessKill 7920
+2020-03-16 10:29:21 - Found child process: 37828 Name: conhost.exe
+2020-03-16 10:29:21 - Found child process: 5964 Name: node.exe
+2020-03-16 10:29:24 - Stopping process 37828
+2020-03-16 10:29:24 - Send SIGINT 37828
+2020-03-16 10:29:24 - SIGINT to 37828 failed - Killing as fallback
+2020-03-16 10:29:26 - Stopping process 5964
+2020-03-16 10:29:26 - Send SIGINT 5964
+2020-03-16 10:29:26 - SIGINT to 5964 failed - Killing as fallback
+2020-03-16 10:29:26 - Stopping process 7920
+2020-03-16 10:29:26 - Send SIGINT 7920
+2020-03-16 10:29:26 - SIGINT to 7920 failed - Killing as fallback
+2020-03-16 10:29:26 - Finished geocidade_backend_empreendimento.exe
+2020-03-16 10:29:30 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\projetos\geo_cidades_jaboatao_widget_emp_backend\node_modules\node-windows\lib\wrapper.js --file C:\projetos\geo_cidades_jaboatao_widget_emp_backend\index.js --log "Geocidade_backend_empreendimento wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-03-16 10:29:30 - Started 20344
+2020-03-16 10:29:52 - Stopping geocidade_backend_empreendimento.exe
+2020-03-16 10:29:52 - ProcessKill 20344
+2020-03-16 10:29:56 - Found child process: 29700 Name: conhost.exe
+2020-03-16 10:29:56 - Found child process: 12004 Name: cmd.exe
+2020-03-16 10:29:56 - Found child process: 34424 Name: node.exe
+2020-03-16 10:29:59 - Stopping process 29700
+2020-03-16 10:29:59 - Send SIGINT 29700
+2020-03-16 10:29:59 - SIGINT to 29700 failed - Killing as fallback
+2020-03-16 10:30:03 - Stopping process 12004
+2020-03-16 10:30:03 - Process 12004 is already stopped
+2020-03-16 10:30:06 - Stopping process 34424
+2020-03-16 10:30:06 - Process 34424 is already stopped
+2020-03-16 10:30:06 - Stopping process 20344
+2020-03-16 10:30:06 - Send SIGINT 20344
+2020-03-16 10:30:06 - SIGINT to 20344 failed - Killing as fallback
+2020-03-16 10:30:06 - Finished geocidade_backend_empreendimento.exe
+2020-03-16 10:44:16 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\projetos\geo_cidades_jaboatao_widget_emp_backend\node_modules\node-windows\lib\wrapper.js --file C:\projetos\geo_cidades_jaboatao_widget_emp_backend\index.js --log "Geocidade_backend_empreendimento wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-03-16 10:44:16 - Started 16460
